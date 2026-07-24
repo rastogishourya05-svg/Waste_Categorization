@@ -1,7 +1,6 @@
 venv/
 __pycache__/
 *.pyc
-models/*.pt
 data/raw/*
 data/processed/*
 data/annotations/*
